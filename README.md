@@ -1,4 +1,4 @@
-# Analyse-Cell-Colonization-Patterns
+# Analyse Cell Colonization Patterns
 
 This repository contains the scripts to quantify the colonization behaviours of different bacterial strains and analyse their chemotaxis, spreading and cell colonization density behaiour. Theserepository was first use for the results and plots in paper:
 
